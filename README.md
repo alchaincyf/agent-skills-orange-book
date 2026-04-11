@@ -11,7 +11,9 @@ This book covers everything: what Skills are, how they work under the hood, wher
 | Edition | PDF |
 |---------|-----|
 | English | [Agent-Skills-The-Complete-Guide-v260411.pdf](./Agent-Skills-The-Complete-Guide-v260411.pdf) |
-| Chinese (中文) | [Agent-Skills-橙皮书-v260411.pdf](./Agent-Skills-橙皮书-v260411.pdf) |
+| Chinese (中文) | [Agent-Skills-Complete-Guide-zh-v260411.pdf](./Agent-Skills-Complete-Guide-zh-v260411.pdf) |
+
+> 💡 Download the PDF for the best reading experience. GitHub's online preview may not render properly.
 
 ## Preview
 

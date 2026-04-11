@@ -10,8 +10,10 @@
 
 | 版本 | PDF |
 |------|-----|
-| 中文 | [Agent-Skills-橙皮书-v260411.pdf](./Agent-Skills-橙皮书-v260411.pdf) |
+| 中文 | [Agent-Skills-Complete-Guide-zh-v260411.pdf](./Agent-Skills-Complete-Guide-zh-v260411.pdf) |
 | English | [Agent-Skills-The-Complete-Guide-v260411.pdf](./Agent-Skills-The-Complete-Guide-v260411.pdf) |
+
+> 💡 PDF 文件建议下载后阅读，体验更佳。GitHub 在线预览可能无法完整渲染。
 
 ## 预览
 
