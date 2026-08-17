@@ -55,6 +55,13 @@ This is the fourth book in the **AI Coding Orange Book** series:
 5. *OpenClaw* — building your own AI
 6. *Polymarket Guide* — prediction markets
 
+## 📚 Read Online on WorkBuddy
+
+This book is also available on WorkBuddy's knowledge base, one page per chapter — or just drop the link into your agent as context.
+
+https://www.workbuddy.cn/space/d/JEdWEHCbVQDe
+
+All orange books: https://www.workbuddy.cn/space/d/YcllWXknAUoMk6lFSWdfbI
 ## License
 
 This book is provided free of charge for personal and educational use. Do not redistribute for commercial purposes without permission.

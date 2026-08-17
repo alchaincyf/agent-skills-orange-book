@@ -55,6 +55,13 @@
 5. 《OpenClaw》 — 养一只你自己的 AI
 6. 《Polymarket 指南》 — 预测市场
 
+## 📚 在线阅读（WorkBuddy）
+
+本书已同步到 WorkBuddy 资料库：每章一个网页，也可以直接把链接丢给你的 Agent 当上下文。
+
+https://www.workbuddy.cn/space/d/JEdWEHCbVQDe
+
+全部橙皮书入口：https://www.workbuddy.cn/space/d/YcllWXknAUoMk6lFSWdfbI
 ## 许可
 
 本书免费提供，仅限个人学习使用。未经授权请勿用于商业传播。
