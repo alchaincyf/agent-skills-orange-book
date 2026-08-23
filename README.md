@@ -59,7 +59,7 @@ This is the fourth book in the **AI Coding Orange Book** series:
 
 This book is also available on WorkBuddy's knowledge base, one page per chapter — or just drop the link into your agent as context.
 
-https://www.workbuddy.cn/space/d/JEdWEHCbVQDe
+https://www.workbuddy.cn/space/d/JEdWEHCbVQDe5RmhKwsz77
 
 All orange books: https://www.workbuddy.cn/space/d/YcllWXknAUoMk6lFSWdfbI
 ## License
