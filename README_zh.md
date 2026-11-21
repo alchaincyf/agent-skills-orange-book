@@ -2,6 +2,10 @@
 
 > 从概念到实战，从安装到创作 — AI时代的技能系统完全指南。
 
+<!-- BOOK-PROMO-START 《图解Agent Skills》京东横幅，2026-12-21下线 -->
+<a href="https://item.jd.com/14829817.html"><img src="https://raw.githubusercontent.com/alchaincyf/alchaincyf/main/assets/book-agent-skills-jd-b.jpg" alt="纸质书《图解Agent Skills：让AI记住你的工作方式》已上市，点击去京东购买" width="100%"></a>
+<!-- BOOK-PROMO-END -->
+
 **Agent Skills** 是 Anthropic 发布的开放标准（agentskills.io），让你能教会 AI 按照你的方式工作。不再每次对话都重复指令，写一个 SKILL.md 文件，你的 AI 助手就能永远记住你的工作流程、审美偏好和质量标准。
 
 这本书覆盖了所有内容：Skills 是什么、底层原理、去哪找、怎么装、怎么用、怎么自己创建，以及 6 种高级设计模式（包括 2026 年新出现的思维蒸馏型）。

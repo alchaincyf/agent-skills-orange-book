@@ -2,6 +2,10 @@
 
 > From concept to practice, from installation to creation — the complete guide to AI skill systems.
 
+<!-- BOOK-PROMO-START 《图解Agent Skills》京东横幅，2026-12-21下线 -->
+<a href="https://item.jd.com/14829817.html"><img src="https://raw.githubusercontent.com/alchaincyf/alchaincyf/main/assets/book-agent-skills-jd-b.jpg" alt="The printed book (Chinese) 图解Agent Skills is out now. Click to buy on JD.com" width="100%"></a>
+<!-- BOOK-PROMO-END -->
+
 **Agent Skills** is the open standard (agentskills.io) that lets you teach AI how you work. Instead of repeating instructions every conversation, you write a SKILL.md file once and your AI assistant remembers your workflow, preferences, and quality standards forever.
 
 This book covers everything: what Skills are, how they work under the hood, where to find them, how to install and use them, how to create your own, and 6 advanced design patterns — including the thought-distillation pattern that emerged in 2026.
